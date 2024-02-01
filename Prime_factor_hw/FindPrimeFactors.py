@@ -1,6 +1,5 @@
 # File: FindPrimeFactors.py
 # Student: Alana Gaughan
-# UT EID: arg5345
 # Course Name: CS303E
 #
 # Date: 3/16/23
